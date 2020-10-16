@@ -3,18 +3,17 @@
     padding: 0;
     margin: 0;
 }
-body {
+.body {
     background-color: #d9dcd6;
 }
-a {
+.a {
     color: #ffffff;
     text-decoration: none;
     padding: 15px;
 }
-p {
+.p {
     font-size: 16px;
 }
-
 /*apply styles to header*/
 .header {
     padding: 20px;
@@ -23,7 +22,7 @@ p {
     color: #ffffff;
 }
 .header h1 {
-    display: inline-block;
+    display:inline-block;
     font-size: 48px;
 }
 .header h1 .seo {
@@ -55,7 +54,7 @@ p {
 .content article {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300%;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;   
@@ -70,6 +69,10 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
+}
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 /*apply styles to benefits section*/
 .benefits {
