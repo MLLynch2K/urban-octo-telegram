@@ -1,4 +1,5 @@
-#Code Refactor Starter Code
+#Code Refactor Starter Code Challenge 1
+
 User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -53,3 +54,6 @@ How to Submit the Challenge
 You are required to submit BOTH of the following for review:
 The URL of the deployed application.
 The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+
+Live Website URL:
+Repository URL:
