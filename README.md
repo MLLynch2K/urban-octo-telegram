@@ -2,9 +2,6 @@
 
 Live Website URL: https://mllynch2k.github.io/urban-octo-telegram/
 Screenshot
-
-
-
 Repository URL: https://github.com/MLLynch2K/urban-octo-telegram
 
 User Story
