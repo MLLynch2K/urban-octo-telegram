@@ -4,6 +4,9 @@ Live Website URL: https://mllynch2k.github.io/urban-octo-telegram/
 
 Repository URL: https://github.com/MLLynch2K/urban-octo-telegram
 
+Screenshot:
+![01htmlcssgithomeworkdemo] (https://github.com/MLLynch2K/urban-octo-telegram/blob/master/assets/images/01-html-css-git-homework-demo%20(1).png?raw=true)
+
 User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
